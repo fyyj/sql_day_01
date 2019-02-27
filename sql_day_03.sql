@@ -124,7 +124,7 @@ from e;
 SELECT max(id)
 from e;
 /*
-	COUNT函数
+	COUNT函数   求和
 */
 
 
